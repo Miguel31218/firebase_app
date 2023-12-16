@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270028550344",
+    "project_id": "g6app-59c07",
+    "storage_bucket": "g6app-59c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270028550344:android:421210ef0df84dfb2475fd",
+        "android_client_info": {
+          "package_name": "com.g6.firebaseapp.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1h31rXq8elc3AF5dZNq7iod9Z_eDTaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
